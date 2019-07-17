@@ -18,7 +18,7 @@ public class warmup {
 
  System.out.println("welcome " +name);
        System.out.println("enter a number");
-        green = life.nextInt()
+        green = life.nextInt();
        number = life.nextInt();
          
        System.out.println("enter a number");
